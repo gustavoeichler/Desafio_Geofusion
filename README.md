@@ -1,6 +1,8 @@
-"# Desafio_Geofusion" 
+# Desafio_Geofusion
 
 Este repositorio contem todos os arquivos utilizados para a realização do desafio proposto pela empresa Geofusion para a vaga de Cientista de Dados de produto.
+
+# O relatório do desafio está disponível no arquivo Desafio_GeoFusion.pdf
 
 O repositorio contem 3 pastas com os dados utilizados, as imagens geradas e os modelos desenvolvidos para estimar e classificar os dados.
 
